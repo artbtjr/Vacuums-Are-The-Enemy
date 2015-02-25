@@ -1,0 +1,14 @@
+Vacuums are the Enemy!
+
+Instructions:
+WASD or arrow keys to move around the screen.
+
+Start the game or advance to the next level with SPACE.
+
+Restart after a game over screen with "R".
+
+Collect objects in your bag only if they fit. Objects too large are red. You start with 3 hearts, and collision with red objects will decrease your hearts by 1. After every level, you will get 1 additional heart, up to a max of 5. Collect enough objects to increase your bag's size and meet the target size before the time runs out.
+
+
+O = Hard mode. All items are their regular colors, and you will have to guess the size of each falling item.
+P = Easy mode. Items too large are colored red.
